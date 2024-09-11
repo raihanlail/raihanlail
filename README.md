@@ -1,7 +1,7 @@
-<div style="text-align:center;">
+<h1 style="text-align:center;">
   # Hi, I'm Raihan Lail Ramadhan
+</h1>
 ## Website Developer | Cloud Computing Enthusiast
-</div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=raihanlail&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @raihanlail
