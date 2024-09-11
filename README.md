@@ -25,5 +25,14 @@ raihanlail/raihanlail is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### Github Stats
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanlail&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanlail&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=raihanlail&show_icons=true&theme=tokyonight" height="200em" >
+
+
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanlail&layout=donut" height="200em" >
+
+
+</a>
+
