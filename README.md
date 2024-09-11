@@ -5,7 +5,7 @@
 - 👋 My Name is **Raihan Lail Ramadhan**
 - 👀 I’m interested in web development, both frontend and backend
 - 🌱 I’m currently learning ReactJs, NextJS, Vue, Astro, Express, and Laravel.
-- ⭐ Go see my [portfolio project!](https://lail-personal-portfolio.vercel.app/)
+- ⭐ Go see my [Portfolio Project!](https://lail-personal-portfolio.vercel.app/)
 
 - 📫 How to reach me 
 instagram: @raihanlail07
@@ -17,5 +17,5 @@ LinkedIn: Raihan Lail Ramadhan
 raihanlail/raihanlail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanlail&layout=donut)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanlail&show_icons=true&theme=merko)
+![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanlail&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanlail&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
