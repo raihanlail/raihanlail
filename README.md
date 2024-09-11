@@ -2,7 +2,7 @@
 ## Website Developer | Cloud Computing Enthusiast
 [![trophy](https://github-profile-trophy.vercel.app/?username=raihanlail&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👋 Hi, I’m @raihanlail
+- 👋 My Name is **Raihan Lail Ramadhan**
 - 👀 I’m interested in web development, both frontend and backend
 - 🌱 I’m currently learning ReactJs, NextJS, Vue, Astro, Express, and Laravel.
 - ⭐ Go see my portfolio project! : https://lail-personal-portfolio.vercel.app/.
