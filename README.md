@@ -1,6 +1,8 @@
-# Hi, I'm Raihan Lail Ramadhan
+<div style="text-align:center;">
+  
 ## Website Developer | Cloud Computing Enthusiast
 [![trophy](https://github-profile-trophy.vercel.app/?username=raihanlail&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div># Hi, I'm Raihan Lail Ramadhan
 
 - 👋 Hi, I’m @raihanlail
 - 👀 I’m interested in web development, both frontend and backend
