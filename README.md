@@ -5,7 +5,7 @@
 - 👋 My Name is **Raihan Lail Ramadhan**
 - 👀 I’m interested in web development, both frontend and backend
 - 🌱 I’m currently learning ReactJs, NextJS, Vue, Astro, Express, and Laravel.
-- ⭐ Go see my portfolio project! : https://lail-personal-portfolio.vercel.app/.
+- ⭐ Go see my [portfolio project!](https://lail-personal-portfolio.vercel.app/)
 
 - 📫 How to reach me 
 instagram: @raihanlail07
